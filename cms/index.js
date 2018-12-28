@@ -1,58 +1,48 @@
-{
+({
 	header: {
 		header: 'Windsor Gardens',
-		tagline: "Welcome to Windsor Gardens! We provide memory care and assisted living services for seniors in Vancouver, Wa",
+		tagline: 'Welcome to Windsor Gardens! We provide memory care and assisted living services for seniors in Vancouver, Wa',
+		$background_image_type: 'image',
+		$background_image_label: 'Background Image',
+		background_image: '/remote/direct_uploads/1545966687_stock-photo-happy-patient-is-holding-caregiver-for-a-hand-while-spending-time-together-688645165.jpg'
 	},
-	instruction_points: [
-		{
-			header: 'Create a new page',
-			tagline: 'By adding a file to /pages folder',
-			link: 'https://www.endurojs.com/docs/templates'
-		},
-		{
-			header: 'Create content for your page',
-			tagline: 'By adding a file to /cms folder',
-			link: 'https://www.endurojs.com/docs/content-files'
-		},
-		{
-			header: 'Style your page',
-			tagline: 'By adding a file to /assets/css folder',
-			link: 'https://www.endurojs.com/docs/sass'
-		},
-		{
-			header: 'Admin interface',
-			tagline: 'Create amazing content with ease',
-			link: 'https://www.endurojs.com/docs/introduction-to-admin'
-		}
-	],
-	so_much_more_block: {
-		header: 'Sooooooo',
-		tagline: 'much more',
-		list_of_topics: [
+	information: {
+		header: 'Memory Care for Seniors',
+		body: 'Welcome to Windsor Gardens! We provide memory care and assisted living services for seniors in Vancouver, Washington. We help seniors deal with memory loss such as Dementia and Alzheimer’s.  The decision to admit someone in need of memory care to a new environment can be very difficult. We understand the challenges can be very difficult. When you choose us you will appreciate our dedication to providing individualized care with dignity.  At Windsor Gardens, the warm elegant environment will invite you in. Windsor Gardens is a secure gated environment, ensuring the safety of your loved one. From the dedicated staff to the wonderful atmosphere, it is a truly great place to call home. Become a part of our assisted living community in Vancouver, WA.  Many Alzheimer and dementia patients have the need to walk and keep moving. You will find that the tranquil setting at Windsor Gardens brings comfort. Our one-acre park like setting invites you to enjoy the beautiful walking paths and peaceful sitting areas.'
+	},
+	types_of_care: {
+		list_of_care_types: [
 			{
-				tagline: 'Create blog:',
-				link: 'www.endurojs.com/blog/how-to-make-a-blog-with-endurojs'
+				name: 'Memory Care',
+				info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pretium egestas diam. Morbi viverra nunc id nisi dignissim mollis.'
 			},
 			{
-				tagline: 'Create personal portfolio:',
-				link: 'https://www.endurojs.com/docs/themes'
+				name: 'Assisted Living',
+				info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pretium egestas diam. Morbi viverra nunc id nisi dignissim mollis.'
 			},
 			{
-				tagline: 'Link content files:',
-				link: 'http://www.enduro.com/docs'
+				name: 'Respite Care',
+				info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pretium egestas diam. Morbi viverra nunc id nisi dignissim mollis.'
 			},
 			{
-				tagline: 'Host your page on heroku:',
-				link: 'http://www.endurojs.com/docs/heroku'
-			},
-			{
-				tagline: 'Host your page on github:',
-				link: 'https://www.endurojs.com/docs/static-pages'
-			},
-			{
-				tagline: 'Host your page on netlify:',
-				link: 'http://www.endurojs.com/docs/netlify'
+				name: 'Other Care',
+				info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pretium egestas diam. Morbi viverra nunc id nisi dignissim mollis.'
 			}
 		]
+	},
+	types_of_block: {
+		individual_block: [
+			{
+				color: '255, 248, 224',
+				header: 'Schedule A Tour',
+				body: 'We understand that everyone has special needs. Call today for a free care assessment and see for yourself. Our admissions specialist will sit with you and customize our variety of assisted living and memory care services to your individual circumstances. Your schedule will be accommodated anytime.'
+			}
+		]
+	},
+	footer_info: {
+		address_line_1: '1602 NE 162nd Ave',
+		address_line_2: 'Vancouver, WA 98684',
+		email: 'info@windsorgardensvancouver.com',
+		phone: '360-944-7419'
 	}
-}
+})
