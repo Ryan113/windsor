@@ -5,7 +5,7 @@
 }
 #dropdown-menu-2btn-1c .nav .link,
 #dropdown-menu-2btn-1c .dropdown-item {
-  font-size: 1em;
+  font-size: 1.4em;
   color: #000000;
 }
 #dropdown-menu-2btn-1c .navbar,
@@ -22,34 +22,44 @@
 }
 #header4-18 P {
   text-align: left;
+  font-size: 32px;
+}
+#header4-18 .btn {
+  font-size: 24px;
 }
 #content5-5 P {
   text-align: center;
+  font-size: 32px;
 }
 #content5-5 .mbr-section-title {
   text-align: center;
 }
+#content5-1p P {
+  text-align: left;
+  font-size: 32px;
+}
 #testimonials1-1g .mbr-section-title {
-  font-size: 36px;
+  font-size: 48px;
 }
 #testimonials1-1g .card-block I {
   font-family: 'Playfair Display', sans-serif;
 }
 #testimonials1-1g .card-block {
-  font-size: 18px;
+  font-size: 24px;
 }
-#ext_menu-i .navbar-toggler {
-  color: #000;
+#testimonials1-1g .card-block DIV {
+  text-align: left;
+  font-size: 24px;
 }
-#ext_menu-i .navbar-brand {
-  font-size: 22px;
+#contacts2-h P {
+  font-size: 20px;
 }
 #dropdown-menu-2btn-1u .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-2btn-1u .nav .link,
 #dropdown-menu-2btn-1u .dropdown-item {
-  font-size: 1em;
+  font-size: 1.4em;
   color: #000000;
 }
 #dropdown-menu-2btn-1u .navbar,
@@ -69,12 +79,15 @@
   color: #000000;
   font-size: 46px;
 }
+#contacts2-m P {
+  font-size: 20px;
+}
 #dropdown-menu-2btn-1u .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-2btn-1u .nav .link,
 #dropdown-menu-2btn-1u .dropdown-item {
-  font-size: 1em;
+  font-size: 1.4em;
   color: #000000;
 }
 #dropdown-menu-2btn-1u .navbar,
@@ -89,12 +102,19 @@
 #dropdown-menu-2btn-1u .navbar-toggler {
   color: #000000;
 }
+#content5-15 P {
+  font-size: 30px;
+  text-align: left;
+}
+#contacts2-s P {
+  font-size: 20px;
+}
 #dropdown-menu-2btn-1c .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-2btn-1c .nav .link,
 #dropdown-menu-2btn-1c .dropdown-item {
-  font-size: 1em;
+  font-size: 1.4em;
   color: #000000;
 }
 #dropdown-menu-2btn-1c .navbar,
@@ -114,13 +134,35 @@
 }
 #header2-1n P {
   text-align: left;
+  font-size: 32px;
+}
+#content5-1h P {
+  font-size: 32px;
+}
+#content5-1i P {
+  font-size: 32px;
+}
+#content5-1j P {
+  font-size: 32px;
+}
+#content5-1k P {
+  font-size: 32px;
+}
+#content5-1m P {
+  font-size: 32px;
+}
+#content5-1l P {
+  font-size: 32px;
+}
+#contacts2-x P {
+  font-size: 20px;
 }
 #dropdown-menu-2btn-1r .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-2btn-1r .nav .link,
 #dropdown-menu-2btn-1r .dropdown-item {
-  font-size: 1em;
+  font-size: 1.4em;
   color: #000000;
 }
 #dropdown-menu-2btn-1r .navbar,
@@ -135,12 +177,18 @@
 #dropdown-menu-2btn-1r .navbar-toggler {
   color: #000000;
 }
+#form1-1t .mbr-section-title {
+  font-size: 48px;
+}
+#contacts2-1s P {
+  font-size: 20px;
+}
 #dropdown-menu-2btn-1u .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-2btn-1u .nav .link,
 #dropdown-menu-2btn-1u .dropdown-item {
-  font-size: 1em;
+  font-size: 1.4em;
   color: #000000;
 }
 #dropdown-menu-2btn-1u .navbar,
@@ -154,4 +202,13 @@
 }
 #dropdown-menu-2btn-1u .navbar-toggler {
   color: #000000;
+}
+#testimonials1-1y .mbr-section-title {
+  font-size: 48px;
+}
+#testimonials1-1y .card-block EM {
+  font-size: 25px;
+}
+#contacts2-1v P {
+  font-size: 20px;
 }
