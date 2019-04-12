@@ -22,21 +22,21 @@
 }
 #header4-18 P {
   text-align: left;
-  font-size: 32px;
+  font-size: 24px;
 }
 #header4-18 .btn {
   font-size: 24px;
 }
 #content5-5 P {
   text-align: center;
-  font-size: 32px;
+  font-size: 16px;
 }
 #content5-5 .mbr-section-title {
   text-align: center;
 }
 #content5-1p P {
   text-align: left;
-  font-size: 32px;
+  font-size: 15px;
 }
 #testimonials1-1g .mbr-section-title {
   font-size: 48px;
@@ -51,7 +51,186 @@
   text-align: left;
   font-size: 24px;
 }
+#msg-box3-23 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-23 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-23 .lead P {
+  font-size: 32px;
+}
+#content5-24 P {
+  text-align: center;
+  font-size: 32px;
+}
+#content5-24 .mbr-section-title {
+  text-align: center;
+}
 #contacts2-h P {
+  font-size: 20px;
+}
+#dropdown-menu-2btn-1u .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1u .nav .link,
+#dropdown-menu-2btn-1u .dropdown-item {
+  font-size: 1.4em;
+  color: #000000;
+}
+#dropdown-menu-2btn-1u .navbar,
+#dropdown-menu-2btn-1u .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1u .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1u .dropdown-menu a:hover,
+#dropdown-menu-2btn-1u .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1u .navbar-toggler {
+  color: #000000;
+}
+#testimonials1-1y .mbr-section-title {
+  font-size: 48px;
+}
+#testimonials1-1y .card-block EM {
+  font-size: 25px;
+}
+#testimonials1-2e .mbr-section-title {
+  font-size: 48px;
+}
+#testimonials1-2e .card-block EM {
+  font-size: 25px;
+}
+#contacts2-1v P {
+  font-size: 20px;
+}
+#dropdown-menu-2btn-1r .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1r .nav .link,
+#dropdown-menu-2btn-1r .dropdown-item {
+  font-size: 1.4em;
+  color: #000000;
+}
+#dropdown-menu-2btn-1r .navbar,
+#dropdown-menu-2btn-1r .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1r .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1r .dropdown-menu a:hover,
+#dropdown-menu-2btn-1r .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1r .navbar-toggler {
+  color: #000000;
+}
+#form1-1t .mbr-section-title {
+  font-size: 48px;
+}
+#contacts2-1s P {
+  font-size: 20px;
+}
+#dropdown-menu-2btn-1c .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1c .nav .link,
+#dropdown-menu-2btn-1c .dropdown-item {
+  font-size: 1.4em;
+  color: #000000;
+}
+#dropdown-menu-2btn-1c .navbar,
+#dropdown-menu-2btn-1c .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1c .dropdown-menu a:hover,
+#dropdown-menu-2btn-1c .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1c .navbar-toggler {
+  color: #000000;
+}
+#header2-1n H1 {
+  text-align: left;
+}
+#header2-1n P {
+  text-align: left;
+  font-size: 32px;
+}
+#content5-1h P {
+  font-size: 32px;
+}
+#content5-1i P {
+  font-size: 32px;
+}
+#content5-1j P {
+  font-size: 32px;
+}
+#content5-1k P {
+  font-size: 32px;
+}
+#content5-1l P {
+  font-size: 32px;
+}
+#contacts2-x P {
+  font-size: 20px;
+}
+#dropdown-menu-2btn-1u .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1u .nav .link,
+#dropdown-menu-2btn-1u .dropdown-item {
+  font-size: 1.4em;
+  color: #000000;
+}
+#dropdown-menu-2btn-1u .navbar,
+#dropdown-menu-2btn-1u .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1u .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1u .dropdown-menu a:hover,
+#dropdown-menu-2btn-1u .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1u .navbar-toggler {
+  color: #000000;
+}
+#content5-15 P {
+  font-size: 30px;
+  text-align: left;
+}
+#contacts2-s P {
+  font-size: 20px;
+}
+#dropdown-menu-2btn-1u .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1u .nav .link,
+#dropdown-menu-2btn-1u .dropdown-item {
+  font-size: 1.4em;
+  color: #000000;
+}
+#dropdown-menu-2btn-1u .navbar,
+#dropdown-menu-2btn-1u .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1u .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1u .dropdown-menu a:hover,
+#dropdown-menu-2btn-1u .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1u .navbar-toggler {
+  color: #000000;
+}
+#content5-15 P {
+  font-size: 30px;
+  text-align: left;
+}
+#content5-27 P {
+  font-size: 12px;
+}
+#contacts2-s P {
   font-size: 20px;
 }
 #dropdown-menu-2btn-1u .hide-buttons [data-button] {
@@ -106,81 +285,10 @@
   font-size: 30px;
   text-align: left;
 }
+#content5-27 P {
+  font-size: 12px;
+}
 #contacts2-s P {
-  font-size: 20px;
-}
-#dropdown-menu-2btn-1c .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-1c .nav .link,
-#dropdown-menu-2btn-1c .dropdown-item {
-  font-size: 1.4em;
-  color: #000000;
-}
-#dropdown-menu-2btn-1c .navbar,
-#dropdown-menu-2btn-1c .dropdown-menu {
-  background: #ffffff;
-}
-#dropdown-menu-2btn-1c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-1c .dropdown-menu a:hover,
-#dropdown-menu-2btn-1c .dropdown-menu a:focus {
-  background: #f5f5f5;
-}
-#dropdown-menu-2btn-1c .navbar-toggler {
-  color: #000000;
-}
-#header2-1n H1 {
-  text-align: left;
-}
-#header2-1n P {
-  text-align: left;
-  font-size: 32px;
-}
-#content5-1h P {
-  font-size: 32px;
-}
-#content5-1i P {
-  font-size: 32px;
-}
-#content5-1j P {
-  font-size: 32px;
-}
-#content5-1k P {
-  font-size: 32px;
-}
-#content5-1m P {
-  font-size: 32px;
-}
-#content5-1l P {
-  font-size: 32px;
-}
-#contacts2-x P {
-  font-size: 20px;
-}
-#dropdown-menu-2btn-1r .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-1r .nav .link,
-#dropdown-menu-2btn-1r .dropdown-item {
-  font-size: 1.4em;
-  color: #000000;
-}
-#dropdown-menu-2btn-1r .navbar,
-#dropdown-menu-2btn-1r .dropdown-menu {
-  background: #ffffff;
-}
-#dropdown-menu-2btn-1r .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-1r .dropdown-menu a:hover,
-#dropdown-menu-2btn-1r .dropdown-menu a:focus {
-  background: #f5f5f5;
-}
-#dropdown-menu-2btn-1r .navbar-toggler {
-  color: #000000;
-}
-#form1-1t .mbr-section-title {
-  font-size: 48px;
-}
-#contacts2-1s P {
   font-size: 20px;
 }
 #dropdown-menu-2btn-1u .hide-buttons [data-button] {
@@ -203,12 +311,39 @@
 #dropdown-menu-2btn-1u .navbar-toggler {
   color: #000000;
 }
-#testimonials1-1y .mbr-section-title {
-  font-size: 48px;
+#contacts2-s P {
+  font-size: 20px;
 }
-#testimonials1-1y .card-block EM {
-  font-size: 25px;
+#dropdown-menu-2btn-1u .hide-buttons [data-button] {
+  display: none !important;
 }
-#contacts2-1v P {
+#dropdown-menu-2btn-1u .nav .link,
+#dropdown-menu-2btn-1u .dropdown-item {
+  font-size: 1.4em;
+  color: #000000;
+}
+#dropdown-menu-2btn-1u .navbar,
+#dropdown-menu-2btn-1u .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1u .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1u .dropdown-menu a:hover,
+#dropdown-menu-2btn-1u .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1u .navbar-toggler {
+  color: #000000;
+}
+#content5-15 P {
+  font-size: 30px;
+  text-align: left;
+}
+#content5-2a P {
+  font-size: 16px;
+}
+#content5-27 P {
+  font-size: 12px;
+}
+#contacts2-s P {
   font-size: 20px;
 }
